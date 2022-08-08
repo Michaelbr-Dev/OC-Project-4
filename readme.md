@@ -27,6 +27,7 @@
 - WAVE
 - HeadingsMap
 - Web Inspector
+- W3C validator
 
 ## Visualiser le site
 
