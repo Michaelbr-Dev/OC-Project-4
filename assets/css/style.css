@@ -94,6 +94,23 @@ h2 {
   color: black;
 }
 
+.main {
+  text-align: center;
+}
+
+.link {
+  font-size: 2rem;
+  color: #fff;
+}
+
+.link:hover {
+  color: #fff;
+}
+
+.link:visited {
+  color: #fff;
+}
+
 /* footer */
 .footer {
   position: absolute;
